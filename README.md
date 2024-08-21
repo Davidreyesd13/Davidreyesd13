@@ -1,7 +1,7 @@
 ## Hi, im David Reyes👋
 
 - 📫 How to reach me: davidreyesd13@gmail.com
-- 🌱 I’m currently learning React, Kotlin and Github
+- 🌱 I’m currently learning Dart 
 - 🧐 Fun Fact: Gamer🎮, Love Burger 😋
 <!--
 **Davidreyesd13/Davidreyesd13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
